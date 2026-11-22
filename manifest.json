@@ -1,0 +1,13 @@
+{
+  "name": "机器人坦克大战",
+  "short_name": "机器人坦克",
+  "start_url": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#101418",
+  "theme_color": "#101418",
+  "icons": [
+    { "src": "index.icon.png", "sizes": "256x256", "type": "image/png" },
+    { "src": "index.apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
